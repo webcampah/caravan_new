@@ -62,12 +62,10 @@ heder .headline{
 }
 .blog {
   width: 600px;
-  height: 1400px;
   float: left; /* 要素を左揃えで並べる */
 }
 .sidebar {
   width: 240px;
-  height: 1400px;
   float: left; /* 要素を左揃えで並べる */
 }
 
