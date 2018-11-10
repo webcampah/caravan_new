@@ -53,3 +53,18 @@ main {
 .title {
 	padding: 12px 0 0 3px;
 }
+
+@media screen and (max-width: 768px) {
+	main {
+		width: 100%;
+		padding-left: 10px;
+	}
+	.box {
+		float: none;
+		width: 90%;
+		margin-bottom: 20px;
+	}
+	.box:last-child {
+		margin-bottom: 0;
+	}
+}
